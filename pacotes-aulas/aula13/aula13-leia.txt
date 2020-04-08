@@ -1,0 +1,18 @@
+﻿==================================
+SEJA BEM-VINDO AO CURSOEMVIDEO.COM
+Cursos GRATIS feitos com QUALIDADE
+==================================
+Essa aula faz parte de um pacote do Curso de Algoritmos, criado pelo Prof. Gustavo Guanabara. 
+
+A chave para o bom aprendizado e sempre a PRATICA, entao pratique muito e nao deixe de acompanhar todas as aulas disponiveis no site abaixo:
+------------------------------------------------
+www.cursoemvideo.com/course/curso-de-algoritmos/
+------------------------------------------------
+Todas as aulas sao gratuitas, mas possuem o direito autoral reservado  ao autor, Gustavo Guanabara.
+
+Todos os testes praticos feitos durante a aula estao na pasta AULA-PRATICA.
+Todos os exercicios propostos pelo professor estao na pasta EXERCICIOS-PROPOSTOS.
+
+Abra o VISUALG e clique em Arquivo > Abrir ou pressione Ctrl+A. Em seguida, localize o arquivo desejado em sua respectiva pasta.
+
+BONS ESTUDOS!
